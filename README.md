@@ -9,3 +9,5 @@ The paper describes how to convert an image into data understandable by a neural
 The implementation of the solution is explained, including all necessary components for it to function properly. The process of how the system "thinks" while searching for a result is visualized using a multi-dimensional plane.
 
 Factors affecting execution time and system accuracy are listed, along with how to choose the right parameter values. Finally, we learned that what works for one use case may not necessarily apply to others.
+
+![Neural Network](1.jpg)
