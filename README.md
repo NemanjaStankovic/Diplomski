@@ -12,4 +12,6 @@ Factors affecting execution time and system accuracy are listed, along with how 
 
 Example of neural network guessing an image:
 
+
+
 ![Neural Network](1.jpg)
