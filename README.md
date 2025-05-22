@@ -10,7 +10,7 @@ The implementation of the solution is explained, including all necessary compone
 
 Factors affecting execution time and system accuracy are listed, along with how to choose the right parameter values. Finally, we learned that what works for one use case may not necessarily apply to others.
 
-Example of neural network guessing an image:
+### Example of neural network guessing an image:
 
 
 
